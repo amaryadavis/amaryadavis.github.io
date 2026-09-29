@@ -5,7 +5,7 @@
 body {
   margin: 0;
   background: #ffe790;
-  color: #f95a72;
+  color: #ffc0c9;
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
@@ -45,7 +45,7 @@ h2 {
 
 .content > p {
   margin: 0;
-  color: #f95a72;
+  color: #f98527;
   font-size: 0.9rem;
   text-transform: uppercase;
   letter-spacing: 0.15em;
